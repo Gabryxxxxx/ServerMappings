@@ -1,0 +1,11 @@
+{
+  "id": "nomeshard",
+  "name": "LeafSMP",
+  "description": "Enter the world of LeafSMP and play with your friends for a fantastic experience.",
+  "addresses": [
+    "mc.leafsmp.us",
+    "leafsmp.us"
+  ],
+  "primaryAddress": "leafsmp.us",
+  "region": "EU"
+}
